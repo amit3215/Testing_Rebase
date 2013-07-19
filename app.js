@@ -7,7 +7,7 @@
     Ideally changes to this file would be limited and most work would be done
     in other places (such as Controllers). If Sencha Cmd cannot merge your
     changes and its generated code, it will produce a "merge conflict" that you
-    will need to resolve manually.
+    will need
 */
 
 // DO NOT DELETE - this directive is required for Sencha Cmd packages to work.
