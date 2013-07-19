@@ -181,3 +181,4 @@ Ext.application({
     }
 });
 	
+Extending app.js
